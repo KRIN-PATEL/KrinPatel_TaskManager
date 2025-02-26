@@ -1,0 +1,28 @@
+This project is desiged by Krin Patel
+
+
+
+Features of the project 
+
+(1) Add Tasks
+(2) Edit Tasks
+(3) Delete Tasks
+(4) Serach Task 
+(5) Clear alltasks
+
+
+Also we used array prortype for search filter 
+
+
+
+--------------------Tecnology used -------------------
+
+nodejs,
+expressjs,
+Html/css
+js
+json
+file system for read write data in txt file
+
+----------------command to run our project ------------------
+nodemon app.js
